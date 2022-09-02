@@ -215,7 +215,7 @@ module.exports = {
         "warning"
       ]
     },
-    "danger": {
+    "error": {
       "description": "",
       "type": "color",
       "value": "#dc3545",
@@ -240,14 +240,14 @@ module.exports = {
           }
         }
       },
-      "name": "ColorDanger",
+      "name": "ColorError",
       "attributes": {
         "category": "color",
-        "type": "danger"
+        "type": "error"
       },
       "path": [
         "color",
-        "danger"
+        "error"
       ]
     },
     "success": {

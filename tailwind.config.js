@@ -28,7 +28,7 @@ module.exports = {
           "info": colors.info || "#3ABFF8",
           "success": colors.success || "#36D399",
           "warning": colors.warning || "#FBBD23",
-          "error": colors.danger || "#F87272",
+          "error": colors.error || "#F87272",
         },
       },
     ],
