@@ -1,12 +1,6 @@
-const kebabCase = require('lodash.kebabcase');
 const tokens = require('./design-tokens');
+const colors = require('./get-colors');
 const sanitizeClass = (className) => className.toLowerCase().replace(/[^a-z0-9]/gi, '')
-const colors = Object.fromEntries(Object
-  .values(tokens.color)
-  .map(({ attributes, value }) => [
-    kebabCase(attributes.type), value
-  ])
-);
 const fontSize = Object.fromEntries(Object
   .values(tokens.font)
   .map(({ attributes, value }) => [
@@ -19,7 +13,7 @@ const fontSize = Object.fromEntries(Object
 const fontFamily = Object.fromEntries(Object
   .values(tokens.font)
   .map(({ attributes, value }) => [
-    sanitizeClass(attributes.type), `${value.fontFamily}, Arial, Helvetica, sans-serif`
+    sanitizeClass(attributes.type), `${value.fontFamily}`
   ])
 );
 const margin = Object.fromEntries(Object

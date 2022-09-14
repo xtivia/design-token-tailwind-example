@@ -9,7 +9,7 @@ body {
 }
 
 body {
-  @apply prose font-body text-body;
+  @apply prose font-body text-body bg-body-contrast;
   @apply prose-h1:font-h1 prose-h1:text-h1 prose-h1:mt-0 mb-h1;
   @apply prose-h2:font-h2 prose-h2:text-h2 prose-h2:mt-0 mb-h2;
   @apply prose-h3:font-h3 prose-h3:text-h3 prose-h3:mt-0 mb-h3;

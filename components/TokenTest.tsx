@@ -16,11 +16,11 @@ const TokenTest = () => {
                     <h3>H3</h3>
                     <p>Body Text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec a urna eu diam aliquet euismod. Vivamus non urna egestas, volutpat justo in, fermentum nisi. Vestibulum ac ex quis lacus dignissim pulvinar. Integer imperdiet dui sed sapien tristique, quis efficitur massa mattis. Suspendisse mattis placerat mi sit amet tempor. Nullam magna arcu, pharetra fermentum tempus ornare, fringilla eget ante. Sed maximus purus at odio sollicitudin, at fermentum ligula feugiat. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus elementum imperdiet ipsum, non tempus sapien pellentesque ut. Nam dapibus dolor sit amet pharetra ultrices. Sed a felis arcu.</p>
                 </div>
-                <div className='flex gap-4 p-4 '>
-                    <div className={`${swatchClass} bg-primary`}>primary</div>
-                    <div className={`${swatchClass} bg-secondary`}>secondary</div>
-                    <div className={`${swatchClass} bg-red`}>red</div>
-                    <div className={`${swatchClass} bg-purple`}>purple</div>
+                <div className='flex gap-4 p-4 font-bold'>
+                    <div className={`${swatchClass} bg-primary text-primary-contrast`}>primary</div>
+                    <div className={`${swatchClass} bg-secondary text-secondary-contrast`}>secondary</div>
+                    <div className={`${swatchClass} bg-red text-red-contrast`}>red</div>
+                    <div className={`${swatchClass} bg-purple text-purple-contrast`}>purple</div>
                 </div>
             </div>
         </div>

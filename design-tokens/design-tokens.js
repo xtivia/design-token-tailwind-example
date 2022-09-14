@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 01 Sep 2022 23:24:43 GMT
+ * Generated on Fri, 09 Sep 2022 02:05:03 GMT
  */
 
 module.exports = {
@@ -12,11 +12,11 @@ module.exports = {
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:912454190ee23ce2bf9f3e028774ed7581a7c683,",
+          "styleId": "S:2bc1c514f3a0ff8a097094985aa2069d9b79fc13,",
           "exportKey": "color"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "description": "",
@@ -25,7 +25,7 @@ module.exports = {
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:912454190ee23ce2bf9f3e028774ed7581a7c683,",
+            "styleId": "S:2bc1c514f3a0ff8a097094985aa2069d9b79fc13,",
             "exportKey": "color"
           }
         }
@@ -43,24 +43,24 @@ module.exports = {
     "secondary": {
       "description": "",
       "type": "color",
-      "value": "#aab425",
+      "value": "#b2be14",
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:13e13b01da9c34984a0a19ecce97673da00cf05e,",
+          "styleId": "S:639e9b976a66f5e8de1672aedee40f81c95fe8e0,",
           "exportKey": "color"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "description": "",
         "type": "color",
-        "value": "#aab425ff",
+        "value": "#b2be14ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:13e13b01da9c34984a0a19ecce97673da00cf05e,",
+            "styleId": "S:639e9b976a66f5e8de1672aedee40f81c95fe8e0,",
             "exportKey": "color"
           }
         }
@@ -82,11 +82,11 @@ module.exports = {
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:52b812333fd5f5e391d8108dcf358320508e17ea,",
+          "styleId": "S:e1499835871db45189e3c3c2127cafc388a767f2,",
           "exportKey": "color"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "description": "",
@@ -95,7 +95,7 @@ module.exports = {
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:52b812333fd5f5e391d8108dcf358320508e17ea,",
+            "styleId": "S:e1499835871db45189e3c3c2127cafc388a767f2,",
             "exportKey": "color"
           }
         }
@@ -117,11 +117,11 @@ module.exports = {
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:722bb86fa9f5236874d6c5876f821b50d7b5c79a,",
+          "styleId": "S:4a1a21676b0ea79f420cbb8ae18aa10b593d6486,",
           "exportKey": "color"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "description": "",
@@ -130,7 +130,7 @@ module.exports = {
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:722bb86fa9f5236874d6c5876f821b50d7b5c79a,",
+            "styleId": "S:4a1a21676b0ea79f420cbb8ae18aa10b593d6486,",
             "exportKey": "color"
           }
         }
@@ -152,11 +152,11 @@ module.exports = {
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:54cc4349e4b63fd92221d966a7c379b540c53c4b,",
+          "styleId": "S:0cf6fff8d578ff59c59710da9ffbf5a9cff8d854,",
           "exportKey": "color"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "description": "",
@@ -165,7 +165,7 @@ module.exports = {
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:54cc4349e4b63fd92221d966a7c379b540c53c4b,",
+            "styleId": "S:0cf6fff8d578ff59c59710da9ffbf5a9cff8d854,",
             "exportKey": "color"
           }
         }
@@ -187,11 +187,11 @@ module.exports = {
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:dd02aba50bb77c297952e7bcee5c524960f86293,",
+          "styleId": "S:5827278fd8a7f8850b12929bd8e7f3c88a98abf9,",
           "exportKey": "color"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "description": "",
@@ -200,7 +200,7 @@ module.exports = {
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:dd02aba50bb77c297952e7bcee5c524960f86293,",
+            "styleId": "S:5827278fd8a7f8850b12929bd8e7f3c88a98abf9,",
             "exportKey": "color"
           }
         }
@@ -222,11 +222,11 @@ module.exports = {
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:947d462f0a38f63a50bad7eca1fd5001b8cbeb07,",
+          "styleId": "S:cd237dfd5c933fe3edcffea2138837433d414c63,",
           "exportKey": "color"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "description": "",
@@ -235,7 +235,7 @@ module.exports = {
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:947d462f0a38f63a50bad7eca1fd5001b8cbeb07,",
+            "styleId": "S:cd237dfd5c933fe3edcffea2138837433d414c63,",
             "exportKey": "color"
           }
         }
@@ -257,11 +257,11 @@ module.exports = {
       "blendMode": "normal",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:e26044bfd9dc35cd34938a7bdbcfdd64049b63c4,",
+          "styleId": "S:6de145b33433690b8dbac5d81c94bc967feab109,",
           "exportKey": "color"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "description": "",
@@ -270,7 +270,7 @@ module.exports = {
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:e26044bfd9dc35cd34938a7bdbcfdd64049b63c4,",
+            "styleId": "S:6de145b33433690b8dbac5d81c94bc967feab109,",
             "exportKey": "color"
           }
         }
@@ -304,11 +304,11 @@ module.exports = {
       },
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:a93bcd5f46372ad50fb77d651d0807c09f7a0d9d,",
+          "styleId": "S:94ab6a2212f3119af8a266b0c754b52069587283,",
           "exportKey": "font"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "type": "custom-fontStyle",
@@ -327,7 +327,7 @@ module.exports = {
         },
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:a93bcd5f46372ad50fb77d651d0807c09f7a0d9d,",
+            "styleId": "S:94ab6a2212f3119af8a266b0c754b52069587283,",
             "exportKey": "font"
           }
         }
@@ -359,11 +359,11 @@ module.exports = {
       },
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:6969db7aeffa9472747839faa91b490c779e23c0,",
+          "styleId": "S:f038ae11c2409bd790bd215adc4a5e4359f26dda,",
           "exportKey": "font"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "type": "custom-fontStyle",
@@ -382,7 +382,7 @@ module.exports = {
         },
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:6969db7aeffa9472747839faa91b490c779e23c0,",
+            "styleId": "S:f038ae11c2409bd790bd215adc4a5e4359f26dda,",
             "exportKey": "font"
           }
         }
@@ -414,11 +414,11 @@ module.exports = {
       },
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:c8fbe03f8a5560f112ea6a50541b9b422847df71,",
+          "styleId": "S:a92d53c498a9f6b0ad9f389052963bfcd5cfe395,",
           "exportKey": "font"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "type": "custom-fontStyle",
@@ -437,7 +437,7 @@ module.exports = {
         },
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:c8fbe03f8a5560f112ea6a50541b9b422847df71,",
+            "styleId": "S:a92d53c498a9f6b0ad9f389052963bfcd5cfe395,",
             "exportKey": "font"
           }
         }
@@ -469,11 +469,11 @@ module.exports = {
       },
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
-          "styleId": "S:7589a65bbbbec963888eceb7e9667f58288a133d,",
+          "styleId": "S:e722bd325833c5fe87c3ff5f3305cc7e4bec3fa6,",
           "exportKey": "font"
         }
       },
-      "filePath": "./design-token-tailwind-example.tokens.json",
+      "filePath": "./mytokens.tokens.json",
       "isSource": true,
       "original": {
         "type": "custom-fontStyle",
@@ -492,7 +492,7 @@ module.exports = {
         },
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:7589a65bbbbec963888eceb7e9667f58288a133d,",
+            "styleId": "S:e722bd325833c5fe87c3ff5f3305cc7e4bec3fa6,",
             "exportKey": "font"
           }
         }
@@ -513,7 +513,7 @@ module.exports = {
       "fontSize": {
         "type": "dimension",
         "value": 32,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -534,7 +534,7 @@ module.exports = {
       "textDecoration": {
         "type": "string",
         "value": "none",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -555,7 +555,7 @@ module.exports = {
       "fontFamily": {
         "type": "string",
         "value": "Arial",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -576,7 +576,7 @@ module.exports = {
       "fontWeight": {
         "type": "number",
         "value": 700,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "number",
@@ -597,7 +597,7 @@ module.exports = {
       "fontStyle": {
         "type": "string",
         "value": "normal",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -618,7 +618,7 @@ module.exports = {
       "fontStretch": {
         "type": "string",
         "value": "normal",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -639,7 +639,7 @@ module.exports = {
       "letterSpacing": {
         "type": "dimension",
         "value": 1.6,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -660,7 +660,7 @@ module.exports = {
       "lineHeight": {
         "type": "dimension",
         "value": 38.4,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -681,7 +681,7 @@ module.exports = {
       "paragraphIndent": {
         "type": "dimension",
         "value": 0,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -702,7 +702,7 @@ module.exports = {
       "paragraphSpacing": {
         "type": "dimension",
         "value": 16,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -723,7 +723,7 @@ module.exports = {
       "textCase": {
         "type": "string",
         "value": "uppercase",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -746,7 +746,7 @@ module.exports = {
       "fontSize": {
         "type": "dimension",
         "value": 24,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -767,7 +767,7 @@ module.exports = {
       "textDecoration": {
         "type": "string",
         "value": "none",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -788,7 +788,7 @@ module.exports = {
       "fontFamily": {
         "type": "string",
         "value": "Arial",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -809,7 +809,7 @@ module.exports = {
       "fontWeight": {
         "type": "number",
         "value": 700,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "number",
@@ -830,7 +830,7 @@ module.exports = {
       "fontStyle": {
         "type": "string",
         "value": "normal",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -851,7 +851,7 @@ module.exports = {
       "fontStretch": {
         "type": "string",
         "value": "normal",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -872,7 +872,7 @@ module.exports = {
       "letterSpacing": {
         "type": "dimension",
         "value": 1.2,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -893,7 +893,7 @@ module.exports = {
       "lineHeight": {
         "type": "dimension",
         "value": 28.8,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -914,7 +914,7 @@ module.exports = {
       "paragraphIndent": {
         "type": "dimension",
         "value": 0,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -935,7 +935,7 @@ module.exports = {
       "paragraphSpacing": {
         "type": "dimension",
         "value": 12,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -956,7 +956,7 @@ module.exports = {
       "textCase": {
         "type": "string",
         "value": "uppercase",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -979,7 +979,7 @@ module.exports = {
       "fontSize": {
         "type": "dimension",
         "value": 18,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1000,7 +1000,7 @@ module.exports = {
       "textDecoration": {
         "type": "string",
         "value": "none",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1021,7 +1021,7 @@ module.exports = {
       "fontFamily": {
         "type": "string",
         "value": "Arial",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1042,7 +1042,7 @@ module.exports = {
       "fontWeight": {
         "type": "number",
         "value": 700,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "number",
@@ -1063,7 +1063,7 @@ module.exports = {
       "fontStyle": {
         "type": "string",
         "value": "normal",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1084,7 +1084,7 @@ module.exports = {
       "fontStretch": {
         "type": "string",
         "value": "normal",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1105,7 +1105,7 @@ module.exports = {
       "letterSpacing": {
         "type": "dimension",
         "value": 0.9,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1126,7 +1126,7 @@ module.exports = {
       "lineHeight": {
         "type": "dimension",
         "value": 21.6,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1147,7 +1147,7 @@ module.exports = {
       "paragraphIndent": {
         "type": "dimension",
         "value": 0,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1168,7 +1168,7 @@ module.exports = {
       "paragraphSpacing": {
         "type": "dimension",
         "value": 9,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1189,7 +1189,7 @@ module.exports = {
       "textCase": {
         "type": "string",
         "value": "uppercase",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1212,7 +1212,7 @@ module.exports = {
       "fontSize": {
         "type": "dimension",
         "value": 16,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1233,7 +1233,7 @@ module.exports = {
       "textDecoration": {
         "type": "string",
         "value": "none",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1254,7 +1254,7 @@ module.exports = {
       "fontFamily": {
         "type": "string",
         "value": "Arial",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1275,7 +1275,7 @@ module.exports = {
       "fontWeight": {
         "type": "number",
         "value": 400,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "number",
@@ -1296,7 +1296,7 @@ module.exports = {
       "fontStyle": {
         "type": "string",
         "value": "normal",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1317,7 +1317,7 @@ module.exports = {
       "fontStretch": {
         "type": "string",
         "value": "normal",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
@@ -1338,7 +1338,7 @@ module.exports = {
       "letterSpacing": {
         "type": "dimension",
         "value": 0,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1359,7 +1359,7 @@ module.exports = {
       "lineHeight": {
         "type": "dimension",
         "value": 24,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1380,7 +1380,7 @@ module.exports = {
       "paragraphIndent": {
         "type": "dimension",
         "value": 0,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1401,7 +1401,7 @@ module.exports = {
       "paragraphSpacing": {
         "type": "dimension",
         "value": 16,
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "dimension",
@@ -1422,7 +1422,7 @@ module.exports = {
       "textCase": {
         "type": "string",
         "value": "none",
-        "filePath": "./design-token-tailwind-example.tokens.json",
+        "filePath": "./mytokens.tokens.json",
         "isSource": true,
         "original": {
           "type": "string",
