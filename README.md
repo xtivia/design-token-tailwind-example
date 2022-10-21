@@ -2,6 +2,8 @@
 
 A simple [Next.js](https://nextjs.org/) proof of concept that integrates typography and color [Style Dictionary](https://amzn.github.io/style-dictionary/#/) design tokens into [TailwindCSS](https://tailwindcss.com/).
 
+This is a companion to the blog post [Bringing Your Figma Design System to Nextjs/Tailwind Using Style Dictionary](https://www.xtivia.com/blog/bringing-your-figma-design-system-to-tailwind-using-style-dictionary/)
+
 ## Getting Started
 
 To run the development server:
