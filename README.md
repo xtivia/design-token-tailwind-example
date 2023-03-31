@@ -22,4 +22,4 @@ Export a design token CommonJS module from style-dictionary into `/design-tokens
 __Important__: Make sure that your style dictionary config is set to output in `"javascript/module"` format
 
 ## 👋 About Me
-I'm Lawrence, a UX designer and UI developer at Xtivia inc. I do my best to help make the internet shiny and easy to use for everyone!
+I'm Lawrence, a UX designer and UI developer at Xtivia inc. I do my best to help make the internet shiny, easy to use, and accessible to everyone!
